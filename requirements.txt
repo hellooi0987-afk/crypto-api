@@ -1,9 +1,8 @@
-flask==3.0.0
-flask-cors==4.0.0
-numpy==1.23.5
-pandas==1.5.3
-scikit-learn==1.2.2
-tensorflow-cpu==2.12.0
-requests==2.31.0
-gunicorn==21.2.0
-h5py==3.8.0
+fastapi
+uvicorn
+tensorflow
+numpy
+pandas
+scikit-learn
+requests
+h5py
