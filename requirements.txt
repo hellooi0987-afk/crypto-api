@@ -1,8 +1,8 @@
 fastapi
 uvicorn
-tensorflow
 numpy
 pandas
 scikit-learn
 requests
 h5py
+tensorflow-cpu
