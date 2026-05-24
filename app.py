@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from tensorflow.keras.models import load_model
+from tf_keras.models import load_model
 import numpy as np
 import pandas as pd
 
